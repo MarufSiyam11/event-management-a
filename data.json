@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/gyn2zT3/Traditional-Wedding-min-333.jpg",
+    "title": "Weddings",
+    "category": "Weddings",
+    "description": "Weddings in Bangladesh take several days and are very elaborate. Typically, wedding customs in Bangladesh take three days from engagement to post wedding rituals. Bengali weddings involve the groom, bride and close relatives. Marriage is viewed as very special and sacred and is met with great enthusiasm.",
+    "price": "$199.99",
+    "card_color": "#0052FF26",
+    "category_background_color": "#0052FF33",
+    "text_color": "#00ffff"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/X3zgxG8/636d99989fd4444.webp",
+    "title": "Birthday Parties",
+    "category": "Birthday Parties",
+    "description": "We celebrate birthdays to remember, acknowledge, and appreciate the life of a person who has been born. Birthdays are about celebrating the life of someone. They are not about buying gifts or throwing a party for family and friends. Rather, they are about celebrating a person's life.",
+    "price": "$49.99",
+    "card_color": "#FF444A26",
+    "category_background_color": "#FF444A33",
+    "text_color": "#f6546a"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/Fgchkyt/Surprise-Your-Partner-With-These-40-Unique-Wedding-Anniversary-Ideas444455.jpg",
+    "title": "Anniversaries",
+    "category": ", Anniversaries",
+    "description": "An anniversary is the date on which an event took place or an institution was founded in a previous year, and may also refer to the commemoration or celebration of that event.",
+    "price": "$129.99",
+    "card_color": "#79C23F26",
+    "category_background_color": "#79C23F33",
+    "text_color": "#4cbb17"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/R6g7pbD/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Engagement Parties",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$299.99",
+    "card_color": "#FF444A26",
+    "category_background_color": "#FF444A33",
+    "text_color": "#ff7373"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/4SXdw1G/celebrateretirement-911111.webp",
+    "title": "",
+    "category": "Retirement Parties",
+    "description": "Many people like getting old, but a retirement party is a great way to celebrate the retiree's accomplishments and to mark their transition into a more relaxing lifestyle. Retirement is also the time for a retiree to travel to places that they've always wanted to visit, such as Egypt, Iceland, or Italy.",
+    "price": "$199.99",
+    "card_color": "#0052FF26",
+    "category_background_color": "#0052FF33",
+    "text_color": "#00ffff"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/m887yXG/b98af351b0a4e795150c941614601c22222.jpg",
+    "title": "Baby shower",
+    "category": "Baby shower",
+    "description": "Activities at baby showers include gift-giving and playing themed games. Baby shower games vary, sometimes including standard games such as bingo, and sometimes being pregnancy-themed, such as guess the mother's measurements or guess the baby.",
+    "price": "$49.99",
+    "card_color": "#FF444A26",
+    "category_background_color": "#FF444A33",
+    "text_color": "#f6546a"
+  }
+  
+]
