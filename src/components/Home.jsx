@@ -1,4 +1,6 @@
 
+
+import Contact from "./Contact";
 import Services from "./Services";
 
 const Home = () => {
@@ -6,6 +8,7 @@ const Home = () => {
         <div>
             
             <Services></Services>
+            <Contact></Contact>
             <h2 className=""> </h2>
         </div>
     );
