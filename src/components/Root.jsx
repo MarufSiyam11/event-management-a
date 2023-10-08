@@ -11,9 +11,7 @@ const Root = () => {
 
             <Banner></Banner>
             <Outlet></Outlet>
-            <Services></Services>
-
-            <AboutUs></AboutUs>
+            
             <Footer></Footer>
         </div>
     );
