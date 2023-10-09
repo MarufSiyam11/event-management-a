@@ -1,7 +1,10 @@
+import Banner from "./Banner";
 
 const AboutUs = () => {
     return (
+        
         <div>
+            <Banner></Banner>
             <div>
                 <h1 className="text-3xl font-bold text-center pt-10">About Us</h1>
             </div>
