@@ -46,7 +46,7 @@ else if (!accepted){
         creatUser(email, password)
             .then(result => {
                 console.log(result.user)
-                setSuccess('User Created Successfully')
+                setSuccess(Swal.fire('User Created Successfully'))
             })
             .catch(error => {
                 console.error(error)

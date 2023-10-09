@@ -1,6 +1,7 @@
 import { useContext, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../Provider/AuthProvider";
+import Swal from "sweetalert2";
 
 
 const LogIn = () => {
@@ -29,7 +30,7 @@ const LogIn = () => {
         signIn(email, password)
             .then(result => {
                 console.log(result.user);
-                setSuccess('User login successfully')
+                setSuccess (Swal("Good job!", "User login successfully", "success"));
                 navigate(location?.state ? location.state : "/")
             })
             .catch(error => {
