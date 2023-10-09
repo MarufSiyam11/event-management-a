@@ -6,3 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   -  This is Event Management Website
+   -  People can celect any type of event  for them.
+   -  To see the more details you have to register this page
+   -  We manage Weddings, Birthday Parties, Anniversaries,
+       Engagement Parties, Retirement Parties, Baby shower, etc.
+  - There is our Contact number,Email,Fax and location 
