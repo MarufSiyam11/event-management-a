@@ -14,6 +14,7 @@ import {
 import AboutUs from './components/AboutUs';
 import AuthProvider from './Provider/AuthProvider';
 import News from './components/News/News';
+import PrivateRoute from './components/PrivateRoute';
 
 
 const router = createBrowserRouter([
@@ -23,12 +24,12 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <Home></Home>
-        // loader : () => fetch('data.json')
+        element: <Home></Home>,
+        loader : () => fetch('/data.json')
        
       },
       {
-        path: '/news',
+        path: '/news/:id',
         element: <News></News>
 
       },
@@ -42,7 +43,7 @@ const router = createBrowserRouter([
       },
       {
         path: '/aboutUs',
-        element: <AboutUs></AboutUs>
+        element: <PrivateRoute><AboutUs></AboutUs></PrivateRoute>
       }
 
     ]
